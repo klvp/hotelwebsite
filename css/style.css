@@ -229,6 +229,10 @@ a{
     display: block;
     margin-top: 10px;
     width: 50%;
+    border: 1px solid #555;
+    background-color: #f4f4f4;
+    height: 30px;
+    padding: 5px;
 }
 .form-group textarea{
     height: 100px;
@@ -236,7 +240,6 @@ a{
 .form-group input:focus,
 .form-group textarea:focus{
     outline: none;
-    border-color: rgb(87, 87, 216);
 }
 /* footer */
 
